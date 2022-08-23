@@ -1,11 +1,11 @@
 ---
 slug: /
-title: My Knowledge Wiki
+title: Skiddle Data Wiki
 ---
 
-# [My Knowledge Wiki 🌿](https://wiki.nikiv.dev)
+# [My Data Collection 🌿](https://wiki.skiddle.id)
 
-This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online wiki](other/wiki-workflow.md) built with [Docusaurus](tools/docusaurus.md) on [GitHub](https://github.com/nikitavoloboev/knowledge).
+This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online wiki](other/wiki-workflow.md) built with [Docusaurus](tools/docusaurus.md) on [GitHub](https://github.com/arcestia/wiki).
 
 If this is your first time visiting this wiki, take a look [here](#getting-started) as it describes this wiki, its structure and goals.
 

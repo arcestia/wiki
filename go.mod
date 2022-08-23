@@ -1,4 +1,4 @@
-module github.com/nikitavoloboev/knowledge
+module github.com/arcestia/wiki
 
 go 1.13
 

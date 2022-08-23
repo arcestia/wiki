@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Everything I know",
-  tagline: "Everything I know",
-  url: "https://wiki.nikiv.dev",
+  title: "Skiddle Data Collection",
+  tagline: "Everything I Collect, Capture, Curated and Store Digitally",
+  url: "https://wiki.skiddle.id",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
@@ -47,34 +47,34 @@ const config = {
         disableSwitch: true,
       },
       navbar: {
-        title: "Everything I Know",
+        title: "Skiddle Data Collection",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
         },
         items: [
           {
-            href: "https://www.instagram.com/nikitavoloboev/",
+            href: "https://www.instagram.com/arcestia/",
             position: "right",
             label: "📷",
           },
           {
-            href: "https://twitter.com/nikitavoloboev",
+            href: "https://twitter.com/LizSnowy",
             position: "right",
             label: "🐦",
           },
           {
-            href: "https://github.com/nikitavoloboev",
+            href: "https://github.com/arcestia",
             position: "right",
             label: "🐙",
           },
           {
-            href: "https://nikiv.dev",
+            href: "https://skiddle.id",
             position: "right",
             label: "🏡",
           },
           {
-            href: "https://github.com/nikitavoloboev/knowledge",
+            href: "https://github.com/arcestia/wiki",
             position: "right",
             className: "header-github-link",
             "aria-label": "GitHub repository",
