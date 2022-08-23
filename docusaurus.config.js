@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "nikitavoloboev", // Usually your GitHub org/user name.
-  projectName: "knowledge", // Usually your repo name.
+  organizationName: "arcestia", // Usually your GitHub org/user name.
+  projectName: "wiki", // Usually your repo name.
 
   presets: [
     [
@@ -25,14 +25,14 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
           // Please change this to your repo.
-          editUrl: "https://github.com/nikitavoloboev/knowledge/tree/main/",
+          editUrl: "https://github.com/arcestia/wiki/tree/main/",
         },
         blog: false,
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
         gtag: {
-          trackingID: "G-09WN3KZ5T3",
+          trackingID: "G-00000000",
           anonymizeIP: true,
         },
       }),
@@ -87,10 +87,10 @@ const config = {
       },
       algolia: {
         // Application ID provided by Algolia
-        appId: "VZMWVWCY2I",
+        appId: "CZ3WDUKZ5I",
         // Public API key
-        apiKey: "8f34bfba01b4422d26cce783e7792f75",
-        indexName: "nikiv",
+        apiKey: "5d5711f391d3d3f4b84e8502f9c0d3fd",
+        indexName: "skiddleid",
       },
     }),
 };
