@@ -87,10 +87,10 @@ const config = {
       },
       algolia: {
         // Application ID provided by Algolia
-        appId: "CZ3WDUKZ5I",
+        appId: "4DXKFPAV3C",
         // Public API key
-        apiKey: "5d5711f391d3d3f4b84e8502f9c0d3fd",
-        indexName: "skiddleid",
+        apiKey: "77d61c7cdd3e03485dec669c31a1846b",
+        indexName: "skiddle",
       },
     }),
 };
